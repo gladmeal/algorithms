@@ -38,7 +38,7 @@ terminal.on( 'line', ( data ) => {
         if ( used === 'exo7' && needed === n ) {
                 terminal.close();
             return;
-        } else if ( used === 'exo8' && needed * 2 === n ) {
+        } else if ( used === 'exo8' && needed === n * 2 ) {
                 terminal.close();
             return;
         } else if ( used === 'exo9' ) {

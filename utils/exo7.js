@@ -76,6 +76,6 @@ module.exports = function ( lines ) {
     ( lines ).forEach( ( item, index ) => {
         const 
             result = init( item );
-        console.log( `#${ index + 1 }: ${ result }` );
+        console.log( `Case #${ index + 1 }: ${ result }` );
     } );
 };
