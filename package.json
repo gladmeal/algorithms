@@ -1,0 +1,13 @@
+{
+  "name": "gladmeal.algorithms",
+  "version": "1.0.0",
+  "description": "All additional algorithms for the gladmeal project",
+  "main": "index.js",
+  "repository": "https://github.com/gladmeal/algorithms",
+  "author": "https://github.com/pertinent23",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
