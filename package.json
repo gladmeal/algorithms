@@ -8,6 +8,9 @@
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "exo7": "node index.js exo7",
+    "exo8": "node index.js exo8",
+    "exo9": "node index.js exo9"
   }
 }
