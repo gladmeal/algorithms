@@ -11,7 +11,7 @@ function separateData( line ) {
 function createTuple( arr = [] ) {
     const 
         tuple = [ [], [] ];
-    
+
         for( let i = 0; i < arr.length; i++ ) {
             if ( i % 2 === 0 ) {
                 tuple[ 0 ].push( arr[ i ] );
